@@ -1,6 +1,8 @@
 # Neural Network from Scratch Without Using Pytorch, TensorFlow, or Keras
 Implemented Neural Network from scratch on MNIST dataset
 
+Dataset link: https://www.kaggle.com/c/digit-recognizer/data <br>
+
 This project demonstrates the implementation of a neural network from scratch using only NumPy for numerical computations and basic Python libraries for data handling and visualization. The neural network is trained on the MNIST dataset, which contains 60,000 images of handwritten digits, each having a dimension of 28x28 pixels.
 
 ## Introduction
